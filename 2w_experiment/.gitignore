@@ -1,0 +1,28 @@
+# ─── Hugging Face model configs & weights ────────────────────────────────────
+
+# Transformer model configs
+**/config.json
+**/model_index.json
+**/generation_config.json
+
+# PyTorch weights
+**/pytorch_model.bin
+**/pytorch_model*.bin
+
+# TensorFlow weights
+**/tf_model.h5
+**/tf_model*.h5
+
+# ─── Tokenizer artifacts ─────────────────────────────────────────────────────
+
+**/tokenizer.json
+**/tokenizer_config.json
+**/special_tokens_map.json
+**/vocab.txt
+**/merges.txt
+**/added_tokens.json
+
+adapter_config.json
+tokenizer.json
+
+**.safetensors
