@@ -1,9 +1,8 @@
+# Investigating the Reverse Curse in Large Language Models
 
 
-![Uploading rt.png…]()
+**To reproduce the result, follow the Python Notebooks:**
 
-
-
-To reproduce the result, follow the Python Notebooks:
-`1_way_experiment.ipynb`
-`2_way_portion.ipynb`
+- One Way Training: `1_way_experiment.ipynb`
+   
+- Two Way Training: `2_way_portion.ipynb`
